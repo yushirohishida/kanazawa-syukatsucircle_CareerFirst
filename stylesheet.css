@@ -19,10 +19,12 @@
 .top-wrapper h1{
   padding-top: 180px;
   font-size:70px;
+  background-color:rgba(192,192,192,0.5);
 }
 
 .top-wrapper p{
   font-size:40px;
+  background-color:rgba(192,192,192,0.5);
 }
 
 .contents-wrapper{
