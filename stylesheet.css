@@ -21,12 +21,14 @@
   padding-top:20;
   padding-bottom:150;
   font-size:70px;
+  font-family:serif;
  /* background-color:rgba(192,192,192,0.5); */
 }
 
 .top-wrapper p{
   font-size:40px;
   background-color:rgba(255,255,255,0.5);
+  font-family:serif;
 }
 
 .contents-wrapper{
