@@ -44,6 +44,10 @@
   padding:80px 0;
 }
 
+ul{
+  padding-bottom;30px;
+}
+
 li{
   list-style:none;
   float:left;
