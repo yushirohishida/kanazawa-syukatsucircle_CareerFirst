@@ -79,16 +79,29 @@
   font-family:serif;
 }
 
+
+.btn{
+  padding:8px 24px;
+  dispaly:inline-block;
+  opacity:0.8;
+  border-radius:4px;
+}
+
 .btn:hover{
   opacity:1;
 }
 
 .twitter{
   background-color:#55acee;
+  margin-right:10px;
 }
 
 .instagram{
   background-color:#2e6ca5;
+}
+
+.note{
+  background-color:#239b76;
 }
 
 .btn-wrapper{
