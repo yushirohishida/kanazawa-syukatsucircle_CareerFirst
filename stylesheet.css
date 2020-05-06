@@ -56,9 +56,19 @@
   text-align:center;
 }
 
-.profile img{
+.profile img y{
+  width:331.2px;
+  height:401.6px;
+}
+
+.profile img k{
   width:292px;
   height:463px;
+}
+
+.profile img m{
+  width:330.4px;
+  height:358.4px;
 }
 
 .contact-wrapper{
