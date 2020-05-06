@@ -40,33 +40,14 @@
 }
 
 
-.message-wrapper{
+.profile-wrapper{
   padding:80px 0;
   overflow:hidden;
 }
 
-ul{
-  padding-bottom;30px;
-}
-
-li{
-  list-style:none;
+.profile{
+  width:50%;
   float:left;
-  padding-top:30px;
-}
-
-.message-left{
-  width:40%;
-  font-family:serif;
-/*  float:left;*/
-
-}
-
-.message-right{
-  width:60%;
-  font-family:serif;
-/*  width:75%; */
- /* float:right; */
 }
 
 
