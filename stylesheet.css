@@ -44,7 +44,7 @@
   padding:80px 0;
   overflow:hidden;
   font-family:serif;
-  flex-wrap:wrap;
+  /* flex-wrap:wrap; */
 }
 
 .profile-wrapper h1{
@@ -96,5 +96,5 @@
 
   .profile{
     width:100%;
-    flex-dilection:column;
+  /*  flex-dilection:column; */
   }
