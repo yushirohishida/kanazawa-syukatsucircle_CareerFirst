@@ -79,8 +79,25 @@
   font-family:serif;
 }
 
+.btn:hover{
+  opacity:1;
+}
 
+.twitter{
+  background-color:#55acee;
+}
 
+.instagram{
+  background-color:#2e6ca5;
+}
+
+.btn-wrapper{
+  margin: 20px 0;
+}
+
+.fa{
+  margin-right:5px;
+}
 
 
 /*スマホの場合*/
