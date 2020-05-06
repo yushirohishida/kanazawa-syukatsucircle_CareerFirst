@@ -51,6 +51,7 @@ ul{
 li{
   list-style:none;
   float:left;
+  padding-top:30px;
 }
 
 .message-left{
