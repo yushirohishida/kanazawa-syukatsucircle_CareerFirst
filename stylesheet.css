@@ -54,14 +54,14 @@ li{
 }
 
 .message-left{
-  width:45%;
+  width:40%;
   font-family:serif;
 /*  float:left;*/
 
 }
 
 .message-right{
-  width:55%;
+  width:60%;
   font-family:serif;
 /*  width:75%; */
  /* float:right; */
