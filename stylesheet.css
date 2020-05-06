@@ -46,6 +46,10 @@
   font-family:serif;
 }
 
+.profile-wrapper h1{
+  text-align:center;
+}
+
 .profile{
   width:50%;
   float:left;
