@@ -44,7 +44,8 @@
 }
 
 .li{
-  float:right;
+  list-style:none;
+  float:left;
 }
 
 .message-left{
