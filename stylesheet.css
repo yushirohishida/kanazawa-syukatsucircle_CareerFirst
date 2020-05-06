@@ -93,8 +93,10 @@
   .top-wrapper h1{
     padding-top:70px;
     padding-bottom:550px;
-
+  }
+  
   .profile{
     width:100%;
-  /*  flex-dilection:column; */
+    text-align:center;
   }
+}
