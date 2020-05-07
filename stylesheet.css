@@ -120,9 +120,14 @@
   font-family:serif;
 }
 
+.surport-wrapper h1{
+  font-size:60px;
+  padding:20px;
+}
+
 li{
   list-style:none;
-  margin:40px;
+  margin:60px;
 }
 
 
