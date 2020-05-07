@@ -92,8 +92,8 @@
   padding:8px 24px;
   dispaly:inline-block;
   opacity:0.8;
-  border-radius:4px;
-  box-shadow:0px 4px #000000;
+  border-radius:2px;
+  box-shadow:0px 2px #000000;
 }
 
 .btn:hover{
@@ -103,25 +103,25 @@
 .btn:active{
   box-shadow:none;
   position:relative;
-  top:4px;
+  top:2px;
 }
 
 .twitter{
-/*  background-color:#55acee;  */
+  border:2px solid #55acee;
   margin:0 10px;  
 }
 
 .instagram{
- /* background-color:#2e6ca5; */
+  border:2px solid #2e6ca5;
   margin:0 10px;
 }
 
 .note{
-/*  background-color:#239b76;  */
+  border:2px solid #239b76;
   dispaly:inline-block;
   opacity:0.8;
-  border-radius:4px;
-  box-shadow:0px 4px #000000;
+  border-radius:2px;
+  box-shadow:0px 2px #000000;
 }
 
 .note:hover{
@@ -131,7 +131,7 @@
 .note:active{
   box-shadow:none;
   position:relative;
-  top:4px;
+  top:2px;
 }
 
 
