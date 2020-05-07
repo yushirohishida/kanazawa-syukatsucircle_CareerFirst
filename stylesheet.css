@@ -93,7 +93,7 @@
   dispaly:inline-block;
   opacity:0.8;
   border-radius:4px;
-  box-shadow:0px 10px #000000;
+  box-shadow:0px 4px #000000;
 }
 
 .btn:hover{
@@ -103,7 +103,7 @@
 .btn:active{
   box-shadow:none;
   position:relative;
-  top:10px;
+  top:4px;
 }
 
 .twitter{
