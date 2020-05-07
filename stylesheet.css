@@ -118,6 +118,10 @@
   font-family:serif;
 }
 
+li{
+  list-style:none;
+}
+
 
 
 /*スマホの場合*/
