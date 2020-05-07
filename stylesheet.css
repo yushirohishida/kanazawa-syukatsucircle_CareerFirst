@@ -57,8 +57,13 @@
   width:30%;
   float:left;
   text-align:center;
-  margin: 5px 20px 40px 20px;
+  margin: 5px 0 30px 0;
 }
+
+.keita{
+  margin:0 30px;
+}
+
 
 .y{
   width:289.3536px;
