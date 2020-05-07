@@ -102,6 +102,8 @@
 
 .btn:active{
   box-shadow:none;
+  position:relative;
+  top:10px;
 }
 
 .twitter{
