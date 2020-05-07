@@ -93,7 +93,7 @@
   dispaly:inline-block;
   opacity:0.8;
   border-radius:4px;
-  box-shadow:0px 2px #000000;
+/*  box-shadow:0px 2px #000000;*/
 }
 
 .btn:hover{
@@ -107,31 +107,31 @@
 }
 
 .twitter{
-  border:2px solid #55acee;
+/*  border:2px solid #55acee;*/
   margin:0 10px;  
 }
 
 .instagram{
-  border:2px solid #2e6ca5;
+/*  border:2px solid #2e6ca5;*/
   margin:0 10px;
 }
 
 .note{
-  border:2px solid #239b76;
+/*  border:2px solid #239b76;*/
   dispaly:inline-block;
   opacity:0.8;
-  border-radius:4px;
-  box-shadow:0px 2px #000000;
+/*  border-radius:4px;
+  box-shadow:0px 2px #000000;*/
 }
 
 .note:hover{
   opacity:1;
 }
 
-.note:active{
+/*.note:active{
   box-shadow:none;
   position:relative;
-  top:2px;
+  top:2px;*/
 }
 
 
