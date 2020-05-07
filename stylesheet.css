@@ -93,10 +93,15 @@
   dispaly:inline-block;
   opacity:0.8;
   border-radius:4px;
+  box-shadow:0px 10px #000000;
 }
 
 .btn:hover{
   opacity:1;
+}
+
+.btn:active{
+  box-shadow:none;
 }
 
 .twitter{
