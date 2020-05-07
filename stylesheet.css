@@ -118,7 +118,22 @@
 
 .note{
 /*  background-color:#239b76;  */
+  dispaly:inline-block;
+  opacity:0.8;
+  border-radius:4px;
+  box-shadow:0px 4px #000000;
 }
+
+.note:hover{
+  opacity:1;
+}
+
+.note:active{
+  box-shadow:none;
+  position:relative;
+  top:4px;
+}
+
 
 .btn-wrapper{
   margin: 30px 0;
