@@ -45,6 +45,7 @@
   overflow:hidden;
   font-family:serif;
   flex-wrap:wrap; 
+  text-align:center;
 }
 
 .profile-wrapper h1{
