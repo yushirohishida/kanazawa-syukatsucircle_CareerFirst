@@ -15,7 +15,7 @@
   /* color:#808080; */
   color:rgba(0,64,128,1.0);
   opacity:0.7;
-  position:relative;
+/*  position:relative; */
 }
 
 .top-wrapper h1{
@@ -31,8 +31,8 @@
   font-size:40px;
   background-color:rgba(255,255,255,0.5);
   font-family:serif;
-  position:absolute;
-  top:150px;
+/*  position:absolute;
+  top:150px; */
   text-align:center;
 }
 
@@ -183,12 +183,20 @@ li{
     width:100%;
     background-image:url(https://raw.githubusercontent.com/yushirohishida/kanazawa-syukatsucircle_CareerFirst/master/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-04-11%200.35.56.png);
    /* background-image:url(https://raw.githubusercontent.com/yushirohishida/kanazawa-syukatsucircle_CareerFirst/master/IMG_0387.JPG); */
+    position:relative;
   }
   
   .top-wrapper h1{
     padding-top:70px;
     padding-bottom:550px;
   }
+  
+  .top-wrapper p{
+    position:absolute;
+    bottom:50px;
+    text-align:center;
+  }
+  
   
   .profile{
     width:100%;
