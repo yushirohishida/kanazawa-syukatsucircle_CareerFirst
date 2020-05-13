@@ -27,7 +27,7 @@
  /* background-color:rgba(192,192,192,0.5); */
 }
 
-.top-wrapper p{
+.top-wrapper h2{
   font-size:40px;
   background-color:rgba(255,255,255,0.5);
   font-family:serif;
@@ -195,7 +195,7 @@ li{
     padding-bottom:550px;
   }
   
-  .top-wrapper p{
+  .top-wrapper h2{
     position:absolute;
     bottom:50px;
     text-align:center;
