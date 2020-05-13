@@ -168,6 +168,10 @@ li{
   height:157.5px;
 }
 
+.bcon{
+  width:1000px;
+  height:73.975px;
+}
 
 /*スマホの場合*/
 @media(max-width:1000px){
