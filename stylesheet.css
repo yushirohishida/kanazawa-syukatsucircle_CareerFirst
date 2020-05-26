@@ -75,7 +75,7 @@
 }
 
 .no1{
-  width:50%;
+  width:30%;
   float:left;
   flex:auto;
   text-align:center;
@@ -83,7 +83,7 @@
 }
 
 .no2{
-  width:50%;
+  width:30%;
   float:left;
   flex:auto;
   text-align:center;
