@@ -75,11 +75,11 @@
 }
 
 .profile{
-  width:30%;
+  width:40%;
  /* float:left; */
   flex:auto;
   text-align:center;
-  margin:10px 30px;
+  margin:20px 30px;
 }
 
 .no1{
