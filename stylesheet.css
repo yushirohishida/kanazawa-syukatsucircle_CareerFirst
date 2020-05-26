@@ -74,7 +74,15 @@
   flex-wrap:wrap;
 }
 
-.profile{
+.no1{
+  width:50%;
+  float:left;
+  flex:auto;
+  text-align:center;
+  margin:10px 30px;
+}
+
+.no2{
   width:50%;
   float:left;
   flex:auto;
