@@ -74,20 +74,20 @@
   flex-wrap:wrap;
 }
 
-.no1{
+.profile{
   width:30%;
-  float:left;
+ /* float:left; */
   flex:auto;
   text-align:center;
   margin:10px 30px;
 }
 
-.no2{
-  width:30%;
+.no1{
   float:left;
-  flex:auto;
-  text-align:center;
-  margin:10px 30px;
+}
+
+.no2{
+  float:left;
 }
 
 /*.keita{
