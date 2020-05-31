@@ -75,11 +75,11 @@
 } */
 
 .profile{
-   width:40%;
+   width:45%;
    float:left;
  /* flex:auto; */
   text-align:center;
-  margin:20px 20px;
+  margin:20px 40px;
 }
 
 /* .no1{
