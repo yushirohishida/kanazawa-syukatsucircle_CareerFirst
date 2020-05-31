@@ -79,7 +79,12 @@
    float:left;
  /* flex:auto; */
   text-align:center;
-  margin:20px 30px;
+  margin:20px 0;
+}
+
+
+.member{
+  margin:20px 0;
 }
 
 /* .no1{
@@ -242,6 +247,10 @@ li{
   .keita{
     margin:30px 0;
     text-align:center;
+  }
+  
+  .mebuki{
+    margin-bottom:30px;
   }
 }
 
