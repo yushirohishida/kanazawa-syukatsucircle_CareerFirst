@@ -75,29 +75,14 @@
 } */
 
 .profile{
-   width:40%;
-   float:left;
+   width:100%;
  /* flex:auto; */
   text-align:center;
-  margin:20px 0;
+  margin:20px 40px;
 }
 
 
-.member{
-  margin:20px 0;
-}
 
-/* .no1{
-  float:left;
-}
-
-.no2{
-  float:left; 
-} */
-
-/*.keita{
-  margin:0 50px;
-}*/
 
 
 .y{
@@ -244,13 +229,13 @@ li{
     text-align:center;
   }
   
-  .keita{
+  /* .keita{
     margin:30px 0;
     text-align:center;
   }
   
   .mebuki{
     margin-bottom:30px;
-  }
+  } */
 }
 
