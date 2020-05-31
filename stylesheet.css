@@ -76,7 +76,7 @@
 
 .profile{
    width:40%;
- /* float:left; */
+   float:left;
  /* flex:auto; */
   text-align:center;
   margin:20px 20px;
