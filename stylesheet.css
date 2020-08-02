@@ -64,9 +64,14 @@
   text-align:center;
 }
 
-,activity-wrapper h1{
+.activity-wrapper h1{
   text-align:center;
   font-size:60px;
+}
+
+.activity-wrapper h2{
+  text-align:center;
+  font-size:40px;
 }
 
 
