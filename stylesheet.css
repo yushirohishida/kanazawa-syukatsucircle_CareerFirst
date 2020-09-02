@@ -225,6 +225,11 @@ li{
   height:55.4812834px;
 }
 
+.crasco{
+  width:750px;
+  height:530.216648px;
+}
+
 /*スマホの場合*/
 @media(max-width:1000px){
   .container{
