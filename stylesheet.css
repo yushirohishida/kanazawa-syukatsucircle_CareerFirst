@@ -233,7 +233,18 @@ li{
 .cf{
   width:150px;
   height:128.90625px;
+  text-align:right;
 }
+
+.cffont{
+  font-size:150px;
+  padding-right:15px;
+  padding-left:15px;
+  margin:0 auto;
+  font-family:serif;
+  text-align:left;
+}
+
 
 /*iPadの場合*/
 @media(max-width:1000px){
