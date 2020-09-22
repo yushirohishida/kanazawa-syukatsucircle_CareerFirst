@@ -230,6 +230,11 @@ li{
   height:210.759494px;
 }
 
+.cf{
+  width:150px;
+  height:128.90625px;
+}
+
 /*iPadの場合*/
 @media(max-width:1000px){
   .container{
@@ -275,10 +280,7 @@ li{
   } */
 }
 
-.cf{
-  width:150px;
-  height:128.90625px;
-}
+
 
 
 
